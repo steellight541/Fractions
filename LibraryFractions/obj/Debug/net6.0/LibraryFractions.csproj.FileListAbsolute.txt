@@ -1,0 +1,11 @@
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\bin\Debug\net6.0\LibraryFractions.deps.json
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\bin\Debug\net6.0\LibraryFractions.dll
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\bin\Debug\net6.0\LibraryFractions.pdb
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.AssemblyInfoInputs.cache
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.AssemblyInfo.cs
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.csproj.CoreCompileInputs.cache
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.dll
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\refint\LibraryFractions.dll
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\LibraryFractions.pdb
+C:\school\programeer lessen\OOP\week 6\Fractions\LibraryFractions\obj\Debug\net6.0\ref\LibraryFractions.dll

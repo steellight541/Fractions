@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFFractionsCalculator/1.0.0": {
+        "dependencies": {
+          "LibraryFractions": "1.0.0"
+        },
+        "runtime": {
+          "WPFFractionsCalculator.dll": {}
+        }
+      },
+      "LibraryFractions/1.0.0": {
+        "runtime": {
+          "LibraryFractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFFractionsCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryFractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
